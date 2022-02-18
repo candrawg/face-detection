@@ -1,2 +1,1 @@
-# face_detection
-Mendeteksi wajah menggunakan open cv
+# Detection faces using *OPENCV* library
