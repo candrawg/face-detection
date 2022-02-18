@@ -1,1 +1,1 @@
-# Detection faces using *OPENCV* library
+# Detection faces using *opencv* library
